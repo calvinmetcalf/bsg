@@ -24,3 +24,29 @@
    right:15px;
    z-index:11;
   }
+
+ .top
+  {
+      list-style-type:none;
+      padding:0px;
+margin:0px;
+     }
+     
+      .wideblue{
+       list-style-image:url(img/wideblue.png);
+       }
+     .midblue{
+       list-style-image:url(img/midblue.png);
+       }
+       .narblue{
+       list-style-image:url(img/narblue.png);
+       }
+       .widegreen{
+       list-style-image:url(img/widegreen.png);
+       }
+     .midgreen{
+       list-style-image:url(img/midgreen.png);
+       }
+       .nargreen{
+       list-style-image:url(img/nargreen.png);
+       }
